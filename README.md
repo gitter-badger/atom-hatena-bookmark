@@ -1,5 +1,7 @@
 # hatena-bookmark package
 
+[![Join the chat at https://gitter.im/bouzuya/atom-hatena-bookmark](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/bouzuya/atom-hatena-bookmark?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Hatena Bookmark Panel for Atom (unofficial).
 
 # Commands
